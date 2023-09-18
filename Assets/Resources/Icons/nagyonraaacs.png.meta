@@ -1,0 +1,875 @@
+fileFormatVersion: 2
+guid: 55be912177f14644dbeef85a1ac234fb
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: nagyonraaacs_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3750
+        width: 250
+        height: 250
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 956a550eb6df4cc4291d541c5f7e31d2
+      internalID: -1531666495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nagyonraaacs_1
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 3750
+        width: 250
+        height: 250
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba32d4191485784f89a327c892514b2
+      internalID: 280850940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nagyonraaacs_2
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 3750
+        width: 250
+        height: 250
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f41eb8fcc2a234db629c92f5a0da43
+      internalID: 1438533652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nagyonraaacs_3
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 3750
+        width: 250
+        height: 250
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c54a4f03c5c8c8247a74e2f1311b83a3
+      internalID: -1991450056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nagyonraaacs_4
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 3750
+        width: 250
+        height: 250
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2963624bfd9a1643ae1660d57f41688
+      internalID: -68061362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nagyonraaacs_5
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 3750
+        width: 250
+        height: 250
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ab2fd47e00ccd48a7fb5f9df5b13af
+      internalID: -2111962863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nagyonraaacs_6
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 3750
+        width: 250
+        height: 250
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a68ad8ad57d2a4982b840772d2c288
+      internalID: -1292802722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nagyonraaacs_7
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 3750
+        width: 250
+        height: 250
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd94809894f1bf7479523ea6faf6d532
+      internalID: -1365424230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nagyonraaacs_8
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 3750
+        width: 250
+        height: 250
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb9831eb4c0ab9248800669d23f9a2d7
+      internalID: -1360702984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nagyonraaacs_9
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 3750
+        width: 250
+        height: 250
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2207b91d4680a9344a6bc13f18f06d07
+      internalID: 1265293307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nagyonraaacs_10
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 3750
+        width: 250
+        height: 250
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98dfd6e5e0ed65478498dff5ccf04c0
+      internalID: -1956728305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nagyonraaacs_11
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 3750
+        width: 250
+        height: 250
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b1e874fde1a7d4c88eb70ee654f50a
+      internalID: -1625961165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nagyonraaacs_12
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 3750
+        width: 250
+        height: 250
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750046169bb91da49863821c77beda13
+      internalID: -1544939088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nagyonraaacs_13
+      rect:
+        serializedVersion: 2
+        x: 3250
+        y: 3750
+        width: 250
+        height: 250
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05fbb06c43a4ea34ca0b42af7e1c3014
+      internalID: -595115009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nagyonraaacs_14
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 3750
+        width: 250
+        height: 250
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98829d7595dc7fc499aa86dedb7d54e6
+      internalID: 1739970908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nagyonraaacs_15
+      rect:
+        serializedVersion: 2
+        x: 3750
+        y: 3750
+        width: 250
+        height: 250
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dfc3ab1f9065b742ba1842e3113dc25
+      internalID: 702960865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nagyonraaacs_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3500
+        width: 250
+        height: 250
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e880d9f274c4f4b9faf72b05032f7a
+      internalID: 1738707379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nagyonraaacs_17
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 3500
+        width: 250
+        height: 250
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6931d121cca4147ad7a790c0e6ffe4
+      internalID: 1568313358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nagyonraaacs_18
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 3500
+        width: 250
+        height: 250
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3d14d6545562c44bd73ce5e88d49b7
+      internalID: 1861133800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nagyonraaacs_19
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 3500
+        width: 250
+        height: 250
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e4fb9efa9f54654bb8f3de6387b4100
+      internalID: 130918494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nagyonraaacs_20
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 3500
+        width: 250
+        height: 250
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aea767fd4d4bcf4ab2e1aba9bfe71fd
+      internalID: -56478140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nagyonraaacs_21
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 3500
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123e653e8c17c2b439798dce128376ea
+      internalID: -646820565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nagyonraaacs_22
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 3500
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81bdcf2686eb79745a37de7c6ee96ecb
+      internalID: -619098281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nagyonraaacs_23
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 3500
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a22cad3876e734e926d6bac569f23f
+      internalID: -120390320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nagyonraaacs_24
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 3500
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec98b95eff196142aaf649a2c083575
+      internalID: -617432935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nagyonraaacs_25
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 3500
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd6dd49adff8a84ab655f8aa29f83de
+      internalID: 1823368607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nagyonraaacs_26
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 3500
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed98a9be955c2a48b31bee7ad5631e9
+      internalID: 1500932582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nagyonraaacs_27
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 3500
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69aafdc81753e547a7fabb0e3d4d824
+      internalID: -2047183220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nagyonraaacs_28
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 3500
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 758b73fcf44af4f4aa0a282896f66d02
+      internalID: -2029406577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nagyonraaacs_29
+      rect:
+        serializedVersion: 2
+        x: 3250
+        y: 3500
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 427c4710627c4994e84d05e6a463388d
+      internalID: -1586532930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nagyonraaacs_30
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 3500
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c4b60e7e82b37a428b84680169de0d4
+      internalID: 1805863557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nagyonraaacs_31
+      rect:
+        serializedVersion: 2
+        x: 3750
+        y: 3500
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bdef2b3cc84a8f4580e853341f660c3
+      internalID: 566937953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      nagyonraaacs_0: -1531666495
+      nagyonraaacs_1: 280850940
+      nagyonraaacs_10: -1956728305
+      nagyonraaacs_11: -1625961165
+      nagyonraaacs_12: -1544939088
+      nagyonraaacs_13: -595115009
+      nagyonraaacs_14: 1739970908
+      nagyonraaacs_15: 702960865
+      nagyonraaacs_16: 1738707379
+      nagyonraaacs_17: 1568313358
+      nagyonraaacs_18: 1861133800
+      nagyonraaacs_19: 130918494
+      nagyonraaacs_2: 1438533652
+      nagyonraaacs_20: -56478140
+      nagyonraaacs_21: -646820565
+      nagyonraaacs_22: -619098281
+      nagyonraaacs_23: -120390320
+      nagyonraaacs_24: -617432935
+      nagyonraaacs_25: 1823368607
+      nagyonraaacs_26: 1500932582
+      nagyonraaacs_27: -2047183220
+      nagyonraaacs_28: -2029406577
+      nagyonraaacs_29: -1586532930
+      nagyonraaacs_3: -1991450056
+      nagyonraaacs_30: 1805863557
+      nagyonraaacs_31: 566937953
+      nagyonraaacs_4: -68061362
+      nagyonraaacs_5: -2111962863
+      nagyonraaacs_6: -1292802722
+      nagyonraaacs_7: -1365424230
+      nagyonraaacs_8: -1360702984
+      nagyonraaacs_9: 1265293307
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

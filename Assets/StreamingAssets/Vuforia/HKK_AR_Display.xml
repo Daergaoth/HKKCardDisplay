@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="Sheran_aldasa" size="1.000000 1.354735" />
+    <ImageTarget name="trinigan_bemutatoja" size="1.000000 1.386059" />
+    <ImageTarget name="trinigan_karacsonya" size="1.000000 1.386059" />
+    <ImageTarget name="timera_makacskodasa" size="1.000000 1.386667" />
+    <ImageTarget name="sportszeruseg" size="1.000000 1.386667" />
+    <ImageTarget name="raia_kovetoje" size="1.000000 1.386667" />
+    <ImageTarget name="kisebb_angyal" size="1.000000 1.386667" />
+    <ImageTarget name="kezratetel" size="1.000000 1.386667" />
+    <ImageTarget name="hoparduc" size="1.000000 1.386667" />
+    <ImageTarget name="hogriff" size="1.000000 1.386667" />
+    <ImageTarget name="hendiala_cselszovese" size="1.000000 1.386667" />
+    <ImageTarget name="ezustsereg" size="1.000000 1.386667" />
+    <ImageTarget name="daergaoth" size="1.000000 1.412500" />
+    <ImageTarget name="baltazar_a_behemot" size="1.000000 1.386667" />
+    <ImageTarget name="az_istenek_sohaja" size="1.000000 1.386667" />
+    <ImageTarget name="alanor" size="1.000000 1.396667" />
+    <ImageTarget name="Matilda" size="1.000000 1.386667" />
+  </Tracking>
+</QCARConfig>
